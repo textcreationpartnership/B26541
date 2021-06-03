@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's dreadful judgement upon an eminent person in the Upper Lorain who was wonderfully transformed into a dog. Attested in a letter to a friend, by one Richard Mare, who was an eye-witness thereof; and is a present a lodger in the house of Mr Lyncol a grocer in St. Alban-street. With permission.</title>
+            <author>Mare, Richard.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26541</idno><idno type="EEBO-CITATION">99829047</idno>
+  <idno type="VID">207596</idno>
+  <idno type="EEBO-PROQUEST">2248495628</idno>
+  
+            <idno type="STC">Wing M589B</idno>
+            <idno type="PROQUEST">99829047</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829047e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26541)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207596)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1917:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's dreadful judgement upon an eminent person in the Upper Lorain who was wonderfully transformed into a dog. Attested in a letter to a friend, by one Richard Mare, who was an eye-witness thereof; and is a present a lodger in the house of Mr Lyncol a grocer in St. Alban-street. With permission.</title>
+                  <author>Mare, Richard.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated at end: the third of August, 1675. Richard Mare.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Judgement of God --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207596:1"/>
+            <p>GOD's DREADFUL JUDGEMENT UPON An EMINENT PERSON IN THE Upper Lorain, Who was Wonderfully Transformed INTO A DOG.</p>
+            <p>Attested in a Letter to a Friend, By one <hi>RICHARD MARE,</hi> Who was an eye-witness thereof;</p>
+            <p>And is at present a Lodger in the house of Mr <hi>Lyncol</hi> a Grocer in St. <hi>Alban</hi>-street.</p>
+            <p>With Permission.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>D. M.</hi> 1675.</p>
+            <pb facs="tcp:207596:2"/>
+            <pb facs="tcp:207596:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:207596:3"/>
+            <pb n="1" facs="tcp:207596:3"/>
+            <head>GOD's Dreadful Judgment UPON An EMINENT PERSON IN THE Upper Loraine.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN answer to yours, you may be pleased to know, that it was my Fortune a while ago, to travel in the <hi>Ʋpper Loraine,</hi> a Country bordering upon <hi>Germany;</hi> where hearing the report of a very strange Dog being carried to several places in a Cart, with a Clergy-man and others attending upon it; I had a great desire to see it, and know what it should mean. At last, coming to a Town called <hi>Argameen,</hi> being a Garrison wherein I quarter<g ref="char:EOLhyphen"/>ed, I understood that it was brought to an Abby
+<pb n="2" facs="tcp:207596:4"/>called <hi>Frankendale,</hi> in which there was a Con<g ref="char:EOLhyphen"/>vent of Fryers. This place being but five or six Leagues off, my curiosity led me thither to be fully satisfied of the truth thereof: where be<g ref="char:EOLhyphen"/>ing come, I saw a Creature of the perfect shape and form of a Dog, not distinguishable from o<g ref="char:EOLhyphen"/>ther Dogs in any respect, as to shape and form, save only the hairs of his head, which were long, and hanging down very low, in the perfect like<g ref="char:EOLhyphen"/>ness of the natural hairs of a mans head. It was a little bigger than the ordinary size of your common Mastiff-dogs; all of a black colour, (only the hairs, which were of a brownish co<g ref="char:EOLhyphen"/>lour) and very dreadful to behold. I must con<g ref="char:EOLhyphen"/>fess unto ye, I could not behold it without admi<g ref="char:EOLhyphen"/>ration, especially seeing those hairs, which are on<g ref="char:EOLhyphen"/>ly proper to mankinde, and contrary to the na<g ref="char:EOLhyphen"/>ture of Dogs, or any other creature: But my a<g ref="char:EOLhyphen"/>stonishment was more, when they aver'd unto me that he was constantly heard to speak twice e<g ref="char:EOLhyphen"/>very day two or three words in a perfect dialect, plain, and intelligible to all that heard him. The constant words that he repeated, were, <hi>O que Dieu est Juste! O how just is God!</hi> These words, I have not heard spoken by this Creature it self, having not leisure enough to attend him, or be any long while absent from my Garrison; but during my stay there, I saw him attended upon by a Fryer of the Franciscan Order, and both were carried in a Cart, and that only to places where people
+<pb n="3" facs="tcp:207596:4"/>resorted unto for Sanctity, or Devotion, as they frequent much in those Countries. I made it my business to know what all this should mean; and the best accompt that I could learn, was as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>In that part of the <hi>Ʋpper Loraine</hi> which is next to <hi>Germany,</hi> there lived one who went by the ti<g ref="char:EOLhyphen"/>tle of a Grave or Lord: This person wanted not Means enough to live happy and contented, if Avarice (which ever wants) had not blinded him with too insatiable a desire of becoming wealthy and potent; whereby the weak and poor which lived under his power and reach, were forc'd to bear the burthen of his oppressions, and to suffer by his greedy extortions. At length it happened that one of his Tenants died, leaving behinde him a Wife and three or four small Chil<g ref="char:EOLhyphen"/>dren, who had scarce any other way of suste<g ref="char:EOLhyphen"/>nance, but what they received from one Milch Cow that she had. The news of his death came no sooner to this Graves knowledge, but he or<g ref="char:EOLhyphen"/>ders one of his Bayliffs to seize on the poor Wid<g ref="char:EOLhyphen"/>dows Cow, on colour of a Custom used in some parts of that Country, which allowed the Land<g ref="char:EOLhyphen"/>lord a Heriot upon the death of any Tenant. The aforesaid Bayliff seizes on the only Cow this poor woman had in the world, and puts the same in his Masters possession: whereupon the woman goes and addresses her self to her Landlord, and
+<pb n="4" facs="tcp:207596:5"/>sets forth to him, in the most lamentable manner that she could, the miserable condition she was reduc'd unto by the death of her Husband; her Poverty, and the great charge of children that she had; begging him to leave her her Cow, to preserve her self and her children from starving. But he, without taking any pitie of her conditi<g ref="char:EOLhyphen"/>on, or affording her any relief, caused her to be turn'd away with many threats and abuses: and so the poor woman being left to her tears, and altogether fallen into despair, she fell to dread<g ref="char:EOLhyphen"/>ful Imprecations against him, invoking God <hi>that he would inflict some heavie Judgement upon him, and shew him no more mercie than he did to her.</hi> In which sad manner she went away, and depar<g ref="char:EOLhyphen"/>ted from him.</p>
+            <p>Within some little while after, it happened that there fell a strange and unusual Murrain among his Cattle, insomuch that neither Cow, Horse, Sheep, or any other sort of what he possessed in the world, was left him alive: whereat he was so confounded, thus to see all his Stock perish in that manner before his face; and his Conscience convincing him that God might do this to avenge his oppressing of the poor woman; he became so extravagantly enraged, that he takes his case of Pistols, and comes to a place where the Picture of our Saviour was as hanging on the Cross, and discharges them at the same, saying, <hi>Now thou
+<pb n="5" facs="tcp:207596:5"/>God, who out of revenge hast done all this s<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>augh<g ref="char:EOLhyphen"/>ter on my Beasts, send now, if thou caust, Dogs enough to devour them.</hi> Upon which, they say, he was immediately transformed into the shape and form of that Dog that I saw at <hi>Franken<g ref="char:EOLhyphen"/>dale.</hi>
+            </p>
+            <p>After this, the Lady his wife seeing the heavie hand of God thus fallen upon her husband, sent for several able Divines, and other devout per<g ref="char:EOLhyphen"/>sons, to obtain, by the assistance of their Pray<g ref="char:EOLhyphen"/>ers, if it were Gods blessed will, to restore him again to his former shape. But all proving in<g ref="char:EOLhyphen"/>effectual, they advised her to send him to some other places of Devotion, or where any Godly persons lived, in hopes still that some just per<g ref="char:EOLhyphen"/>sons Prayers may he heard at last.</p>
+            <p>And further, one thing more is remarkable, which the Fryer that attended on him, and o<g ref="char:EOLhyphen"/>thers, told me, <hi>viz.</hi> That when the Lady inten<g ref="char:EOLhyphen"/>ded to send him away in her Coach, the horses would in no manner budge from the place, not<g ref="char:EOLhyphen"/>withstanding all the means they used; so that she was forced to make tryal of a Cart, which carryed him without any difficulty.</p>
+            <pb n="6" facs="tcp:207596:6"/>
+            <p> The circumstance of this Relation I saw in Print when I was in that Country; and I did likewise hear it confirmed by divers credible per<g ref="char:EOLhyphen"/>sons there upon the place; no body making any doubt of the truth thereof.</p>
+            <p>What I saw with my own eyes, I have faith<g ref="char:EOLhyphen"/>fully reported; and whosoever has a desire to be further satisfied in the matter, may repair to Mr. <hi>Lyncol</hi>'s house, a Grocer in S. <hi>Albans</hi> Street, where I am at present lodged, and shall be ready to deliver the truth to my knowledge.</p>
+            <closer>
+               <dateline>Dated <date>the Third of <hi>August,</hi> 1675.</date>
+               </dateline>
+               <signed>Richard Mare.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207596:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
